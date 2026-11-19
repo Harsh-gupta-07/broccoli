@@ -1,0 +1,7 @@
+,O1,O2,O3
+Seasonal naive,0.4939,0.4988,0.5484
+LightGBM (Phase 1),0.3805,0.4083,0.419
+Kalman filter (Phase 1),0.391,0.4217,0.4345
+DeepAR (global DL),0.3706,0.399,0.4132
+50/50 avg Kalman+DeepAR,0.3769,0.4055,0.4187
+KF-DeepAR hybrid,0.3697,0.3994,0.4108

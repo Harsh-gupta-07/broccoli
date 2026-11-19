@@ -1,0 +1,7 @@
+,Pinball (all days),Pinball (in-stock days),WAPE (in-stock days)
+Seasonal naive,0.5137,0.5269,0.7352
+LightGBM (Phase 1),0.4026,0.4064,0.61
+Kalman filter (Phase 1),0.4158,0.417,0.596
+DeepAR (global DL),0.3943,0.3997,0.6012
+50/50 avg Kalman+DeepAR,0.4004,0.4034,0.5938
+KF-DeepAR hybrid,0.3933,0.3982,0.5986
