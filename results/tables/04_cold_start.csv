@@ -1,0 +1,6 @@
+model,MAE,WAPE,Pinball,Cov80
+DeepAR,1.7607,0.6196,0.5494,0.906
+KF-DeepAR,1.7516,0.6164,0.5511,0.9
+Kalman,1.7467,0.6147,0.5711,0.8488
+"deepar (full history, reference)",1.792,0.6306,0.5388,0.9107
+"kf_deepar_hybrid (full history, reference)",1.7349,0.6105,0.5166,0.9083

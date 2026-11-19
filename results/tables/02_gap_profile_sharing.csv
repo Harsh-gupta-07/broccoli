@@ -1,0 +1,9 @@
+history,segment,dept-pooled,own,gain from sharing (%)
+full history,erratic,0.7375,0.7388,0.18
+full history,intermittent,0.803,0.8011,-0.24
+full history,lumpy,0.9519,0.9507,-0.13
+full history,smooth,0.3803,0.3762,-1.09
+last 8 weeks,erratic,0.7449,0.7468,0.25
+last 8 weeks,intermittent,0.8055,0.8137,1.01
+last 8 weeks,lumpy,0.9517,0.9599,0.85
+last 8 weeks,smooth,0.3851,0.3923,1.84
